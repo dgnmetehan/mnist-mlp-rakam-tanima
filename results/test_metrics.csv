@@ -1,0 +1,4 @@
+metric,value
+selected_epoch,8
+test_loss,0.07735839733015745
+test_accuracy,97.71
